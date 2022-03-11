@@ -1,3 +1,3 @@
 # Arkanoid 
 
-The old and classic game Arkanoid  implemetated by me.
+The old and classic game Arkanoid implementated by me.
