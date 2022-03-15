@@ -27,7 +27,7 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 ### Option 1:
 1. Clone the repository:  
     ```
-    $ git clone https://github.com/OsherElhadad/Arkanoid.git
+    $ git clone https://github.com/yossix07/Arkanoid
     ```
 2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi) Link to a guide: [Apache Ant Installation Video Windows 10](https://www.youtube.com/watchv=3eaW81yYIqY&t=353s&ab_channel=xscourse)
 4. Open CMD/Git Bash in the cloned directory and run this command to enter the game manu:
@@ -36,7 +36,7 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 ### Option 2:
 1. Clone the repository:  
     ```
-    $ git clone https://github.com/OsherElhadad/Arkanoid.git
+    $ git clone https://github.com/yossix07/Arkanoid
     ```
 2. Open the project from an IDE such as Intellij, VS, etc.
 3. Add the biu-oop.jar file as a global library to the Arkanoid project.
